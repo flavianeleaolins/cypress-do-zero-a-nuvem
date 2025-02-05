@@ -138,6 +138,7 @@ describe('Central de Atendimento ao Cliente TAT', () => {
       
       cy.contains('h1','CAC TAT - Política de Privacidade').should('be.visible')
   })
+  // esse codigo foi testado de forma independente em outro arquivo cy.js
   it('testa a página da política de privacidade de forma independentea',()=>{
    // cy.get('a').click().should('be.visible') forma muito generica apesar de funcionar. 
       
