@@ -101,7 +101,7 @@ Se quiser contribuir com este projeto:
 2. Crie uma **branch** com a sua funcionalidade (`git checkout -b minha-feature`).  
 3. Faça o **commit** das mudanças (`git commit -m 'Adiciona nova funcionalidade'`).  
 4. Faça um **push** para a branch (`git push origin minha-feature`).  
-5. Abra um **Pull Request**.  
+5. Abra um **Pull Request**.  .
 
 ---
 
